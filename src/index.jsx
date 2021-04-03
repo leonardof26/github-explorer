@@ -1,5 +1,7 @@
 import React from "react";
 
-function App() {
+import { App } from "./App";
+
+function Wrapper() {
   return <h1>Hello World</h1>;
 }
